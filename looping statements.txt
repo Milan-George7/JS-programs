@@ -1,0 +1,7 @@
+-while loop
+    -
+
+
+
+
+-for loop
